@@ -1,4 +1,4 @@
-# DCA-time-management
+# Decision Choice Analysis on College Students and Time Management
 
 This pilot study utilizes discrete choice analysis (DCA) to explore how CSULB students allocate their labor and leisure time.
 
